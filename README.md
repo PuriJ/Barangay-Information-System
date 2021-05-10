@@ -4,9 +4,9 @@ An Information System for Barangay Unang Sigaw at Quezon City. It is a web appli
 ### Features:
 
 - Saves the information of the residents from database.
-- It has a login process which identifies the user either the user is Admin or Employee to access the system. It will lock if the user input wrong account three times.
+- Login process which identifies the user either the user is Admin or Employee to access the system. It will lock if the user input wrong account three times.
 - Certificate Issuance which automates the information of the residents, such as Residency, Barangay Clearance, Indigency, and Business Permit.
-- It has a different residents tally which sort the number of residents, such as population, voters, students, seniors and persons with disabilities (PWDs).
+- Different residents tally which sorts the number of residents, such as population, voters, students, seniors and persons with disabilities(PWDs).
 - Filters the data based on the drop-down list.
 - Searching function to find the info of a certain resident from the record.
 - Generate reports of each process.
