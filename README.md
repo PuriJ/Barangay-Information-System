@@ -1,4 +1,4 @@
-# VB.NET-based-Barangay-Information-System-with-MySQL-Database
+# VB.NET-based Barangay Information System with MySQL Database
 An Information System for Barangay Unang Sigaw at Quezon City. It is a web application which handles the information of the residents, processing the certificate issuance, and getting the person's violation record.
 
 ### Features:
