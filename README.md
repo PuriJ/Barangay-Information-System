@@ -17,6 +17,6 @@ An Information System for Barangay Unang Sigaw at Quezon City. It is a web appli
 - Limited report records for each process.
 - Forgot Password and/or Recovery
 - Barangay Hearing Process
-- Secure Password Storage (AES encryption)
+- Secure Password Storage
 - Capture or Upload Image
 - Backup and Restore Data
